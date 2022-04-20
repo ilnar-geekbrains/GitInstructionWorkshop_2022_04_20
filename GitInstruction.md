@@ -133,6 +133,10 @@ git push
 ```
 git push ssh://yourserver.com/~you/proj.git master:experimental
 ```
+Получает изменений из определенного репозитория 
+```
+git fetch /home/username/project 
+```
 Получить ссылку на репо в сети
 ```
 git remote -v
@@ -145,7 +149,10 @@ git branch -M main
 ```
 git puth -u origin main
 ```
-
+Объединение с активной веткой целевую ветку
+```
+git merge <целевая ветка>
+```
 ## Совместная работа над проектом (fork, pull request)
 
 ### Как строится и для чего нужна совместная работа в системах контроля версий
