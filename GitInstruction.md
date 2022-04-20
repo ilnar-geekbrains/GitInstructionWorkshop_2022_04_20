@@ -127,5 +127,9 @@ Local savings
 ## Книги и полезные ссылки по изучению git.
 # ![ссылка на материал о языке разметки markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637
 )
+# ![ссылка на основнолй справочник по работе с Git ](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-Git%3F)
+# ![ссылка на тренажер по работе с Git](https://learngitbranching.js.org/?locale=ru_RU
+)
+# ![инструкция по работе  с Git ](https://bioinformaticsinstitute.ru/sites/default/files/instrukciya_po_ispolzovaniyu_git_dlya_nachinayushchih.pdf)
 
 ## Альтернативные системы контроля версий.
