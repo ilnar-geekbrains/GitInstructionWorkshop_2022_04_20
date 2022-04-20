@@ -131,6 +131,9 @@ Local savings
 
 ## Совместная работа над проектом (fork, pull request)
 
+### Можно почитать 
+[тут](https://git-scm.com/book/ru/v2/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-Git-%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5) или скачать [статью](https://cyberleninka.ru/article/n/sovmestnaya-razrabotka-po-s-ispolzovaniem-git)
+
 ### Как строится и для чего нужна совместная работа в системах контроля версий
 
 ### Инструкция по созданию pull request
