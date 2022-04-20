@@ -193,7 +193,6 @@ Local savings
 *Git merge -abort* - **отмена слияния ветки**
 
 *Git merge --squish a* - **Merge & squish all commits into one new commit** 
-
 ---
 ## Работа с удаленными репозиториями.
 
