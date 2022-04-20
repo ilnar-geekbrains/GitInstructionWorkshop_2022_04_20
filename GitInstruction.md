@@ -14,7 +14,7 @@
 
 ## Установка git и VSCode на ваш ПК.
 
-git
+git GIT git
 
 ### Установка VSCode на ваш ПК.
 
