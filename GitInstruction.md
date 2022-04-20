@@ -110,8 +110,32 @@ Local savings
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
+---
 ### Базовая работа с ветками в git.
+    
+*Git branch* - **Посмотреть ветки**
 
+*Git branch name* - **Создать ветку**
+
+*Git branch -d name* - **Удалить ветку**
+
+*Git branch -D name* - **Удалить ветку игнор merge**
+
+*Git branch -a* - **Посмотреть все ветки**
+
+*Git checkout -b name* - **Создать и пперейти в ветку**
+
+*Git checkout |codename commite|* - **Переход в ветку**
+
+*Git checkout master* - **Переход в ветку master**
+
+*Git merge name* - **Слить ветку name в текущую**
+
+*Git merge -abort* - **отмена слияния ветки**
+
+*Git merge --squish a* - **Merge & squish all commits into one new commit** 
+
+---
 ## Работа с удаленными репозиториями.
 
 ### Что такое удаленный репозиторий и для чего он нужен
